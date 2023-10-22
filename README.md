@@ -6,6 +6,7 @@ Moseti:
       - Python
       - C++
       - Java
+      - Kotlin
 
   Interests:
     - Open Source
