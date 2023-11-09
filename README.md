@@ -9,12 +9,12 @@ Moseti:
       - Kotlin
 
   Interests:
-    - Open Source
+    - Mobile development
     - Web Development
       - Web Frameworks
       - Web Components
       - Accessibility
-    - Systems Programming
+    - Open Source
     - Cloud Engineering
     - Machine learning and AI
     - Automation
