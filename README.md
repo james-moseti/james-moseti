@@ -2,11 +2,11 @@
 Moseti:
   Title: Computer science student
     Languages:
+      - Kotlin
+      - Java
       - Javascript
       - Python
       - C++
-      - Java
-      - Kotlin
 
   Interests:
     - Mobile development
