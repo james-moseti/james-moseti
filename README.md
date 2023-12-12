@@ -10,13 +10,12 @@ Moseti:
 
   Interests:
     - Mobile development
+    - Machine learning and AI
     - Web Development
       - Web Frameworks
       - Web Components
       - Accessibility
     - Open Source
     - Cloud Engineering
-    - Machine learning and AI
     - Automation
-    - Devops tooling
 ```
