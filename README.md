@@ -5,7 +5,7 @@ Moseti:
       - Python
       - Javascript
       - Kotlin
-      - Go
+      - C++
 
   Interests:
     - Mobile development
