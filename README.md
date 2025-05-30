@@ -3,7 +3,7 @@ Moseti:
   Title: Computer science student
     Languages:
       - Kotlin
-      - Next.js
+      - Javascript
       - Python
       - C++
 
