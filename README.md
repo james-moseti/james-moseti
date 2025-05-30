@@ -2,9 +2,9 @@
 Moseti:
   Title: Computer science student
     Languages:
-      - Python
-      - Javascript
       - Kotlin
+      - Next.js
+      - Python
       - C++
 
   Interests:
